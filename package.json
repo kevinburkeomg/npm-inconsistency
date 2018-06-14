@@ -1,5 +1,6 @@
 {
     "dependencies": {
+        "angular": "1.6.9",
         "angular-google-maps": "2.3.3"
     }
 }
